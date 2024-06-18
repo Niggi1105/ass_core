@@ -1,3 +1,5 @@
+pub mod common;
+
 use core::panic;
 use std::{
     fs::File,
